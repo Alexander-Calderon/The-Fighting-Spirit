@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Escena1
+comment0.text=\n\ Write\ a\ description\ of\ class\ Escena1\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Escena1()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Escena1.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ AparecerPlayer1()
+comment4.params=
+comment4.target=greenfoot.GreenfootImage\ MoverFondo()
+numComments=5
